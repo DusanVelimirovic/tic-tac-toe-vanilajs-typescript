@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  },
+  "name": "tic-tac-toe-vanila-build",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DusanVelimirovic/tic-tac-toe-vanila-build.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DusanVelimirovic/tic-tac-toe-vanila-build/issues"
+  },
+  "homepage": "https://github.com/DusanVelimirovic/tic-tac-toe-vanila-build#readme",
+  "description": ""
+}
